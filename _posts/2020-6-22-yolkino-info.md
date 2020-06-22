@@ -36,7 +36,7 @@ h4:before {
 }
 </style>
 
-![logo](/images/2020/logo-yolkino-200.png)
+![logo](https://raw.githubusercontent.com/ForestAdventure/forestadventure.github.io/master/images/2020/logo-yolkino-200.png)
 
 Положение
 =========

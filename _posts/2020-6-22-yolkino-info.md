@@ -2,6 +2,7 @@
 layout: post
 title: QRогейн Ёлкино
 ---
+![logo](https://raw.githubusercontent.com/ForestAdventure/forestadventure.github.io/master/images/2020/logo-yolkino-200.png)
 
 <style type="text/css">
 body {
@@ -35,8 +36,6 @@ h4:before {
     content: counter(h2) "." counter(h3) "." counter(h4) ". "
 }
 </style>
-
-![logo](https://raw.githubusercontent.com/ForestAdventure/forestadventure.github.io/master/images/2020/logo-yolkino-200.png)
 
 Положение
 =========
